@@ -21,7 +21,7 @@ This is an Android application built using **Jetpack Compose** and **Speech Reco
 
 | Source | Link |
 |--------|------|
-| **GitHub Releases (APK)** | [Download latest](https://github.com/abrar-0020/voice-calculator/releases/latest) |
+| **GitHub Releases (APK)** | [Download latest]([https://github.com/abrar-0020/voice-calculator/releases/latest](https://github.com/abrar-0020/voice-calculator/blob/main/app-release.apk)) |
 | **Google Play** | *Coming soon* |
 
 > ⚠️ If you install from GitHub, Android will warn you that the APK is from an “unknown source”.  

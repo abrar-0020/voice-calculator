@@ -1,0 +1,60 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- White Background -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M0,0h108v108h-108z" />
+
+    <!-- Microphone Body -->
+    <path
+        android:fillColor="#3F51B5"
+        android:pathData="M54,20c-6.6,0 -12,5.4 -12,12v20c0,6.6 5.4,12 12,12s12,-5.4 12,-12V32C66,25.4 60.6,20 54,20z" />
+
+    <!-- Microphone Base -->
+    <path
+        android:fillColor="#303F9F"
+        android:pathData="M48,64h12v6c0,3.3 -2.7,6 -6,6s-6,-2.7 -6,-6v-6z" />
+
+    <!-- Microphone Stand -->
+    <path
+        android:fillColor="#303F9F"
+        android:pathData="M50,76h8v6h-8z" />
+
+    <!-- Calculator Body: Rounded Rectangle -->
+    <path
+        android:fillColor="#546E7A"
+        android:pathData="M26,28a2,2 0 0 1 2,-2h24a2,2 0 0 1 2,2v32a2,2 0 0 1 -2,2H28a2,2 0 0 1 -2,-2z" />
+
+    <!-- Calculator Screen -->
+    <path
+        android:fillColor="#90A4AE"
+        android:pathData="M30,30h20v6H30z" />
+
+    <!-- Calculator Buttons -->
+    <!-- Row 1 -->
+    <path android:fillColor="#FFFFFF" android:pathData="M32,38h4v4h-4z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M38,38h4v4h-4z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M44,38h4v4h-4z" />
+
+    <!-- Row 2 -->
+    <path android:fillColor="#FFFFFF" android:pathData="M32,44h4v4h-4z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M38,44h4v4h-4z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M44,44h4v4h-4z" />
+
+    <!-- Row 3 -->
+    <path android:fillColor="#FFFFFF" android:pathData="M32,50h4v4h-4z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M38,50h10v4h-10z" />
+
+    <!-- Optional: Mic wave graphic -->
+    <path
+        android:fillColor="#90CAF9"
+        android:pathData="M70,36c2,3 2,9 0,12M74,32c4,5 4,15 0,20"
+        android:strokeWidth="2"
+        android:strokeColor="#90CAF9"
+        android:fillAlpha="0"
+        android:strokeAlpha="1" />
+</vector>

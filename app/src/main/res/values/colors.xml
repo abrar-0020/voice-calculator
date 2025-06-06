@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="splash_bg">#AADDCF</color>
+    <color name="icon_foreground">#3F51B5</color>
+    <color name="app_name_text">#212121</color>
+    <color name="icon_background">#FFFFFFFF</color> <!-- White -->
+
+
+    <!-- ✅ Add this line -->
+</resources>

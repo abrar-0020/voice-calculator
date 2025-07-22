@@ -2,7 +2,7 @@
 
 This is an Android application built using **Jetpack Compose** and **Speech Recognition APIs** that allows users to perform calculations using their voice. Just speak out your math expression (like "five plus seven divided by two"), and the app will parse it and display the result instantly.
 
-> ✅ Built with the help of AI (ChatGPT) for guidance, code generation, and optimization.
+> ✅ Built with the help of AI for guidance, code generation, and optimization.
 
 ---
 
@@ -10,8 +10,6 @@ This is an Android application built using **Jetpack Compose** and **Speech Reco
 
 - 🎤 Voice input for performing calculations
 - 🧮 Instant math evaluation using `exp4j`
-- 📝 Manual input support with live result updates
-- 📋 One-click copy to clipboard functionality
 - 🕓 History of previous calculations
 - 🔄 Clear and backspace buttons for manual correction
 - 🎨 Built with Material 3 and Jetpack Compose

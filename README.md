@@ -55,5 +55,11 @@ Windows Defender may pop up with a warning like "Don't run". This happens becaus
 
 ➡️ It's completely safe — just click on "More info" > "Run anyway".
 
-📄 License
-This project is open-source and available under the MIT License
+---
+
+## ©️ License
+
+© 2025 Abrar. All rights reserved.
+
+This project is open for personal and educational use.  
+Do not resell or host as a commercial service without permission.
